@@ -1,41 +1,56 @@
-# Olá, eu sou Alexandre Alves 👋
+**`Developer`** 
 
-Desenvolvedor Frontend apaixonado por criar interfaces modernas, acessíveis e com atenção aos detalhes. Transformo ideias em experiências digitais que funcionam — e que as pessoas gostam de usar.
+![Banner](./ikaro-banner_1.pn)
+<li>💻Front End Developer</li>
+<li>⌨️Dev pleno Java/C++ Dominantes</li>
+<li>⚒️Cursando Engenharia de Software</li>
+<li>📩 Aberto a oportunidades de Estagio e Emprego</li>
+<br>
+<p>Desenvolvedor Front End com experiência em HTML, CSS , JAVASCRIPT, REACT .</p>
 
----
+  <div>
+  <h1>Linguagens 🤖</h1>
 
-## 🧑‍💻 Sobre mim
+  <table>
+    <tr>
+      <td><img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
+      <td><img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+      <td><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+    </tr>
+  </table>
+</div>
 
-- 💼 Desenvolvedor Frontend
-- 🌱 Sempre aprendendo e evoluindo
-- 🎯 Foco em código limpo, boas práticas e experiência do usuário
-- 📍 Recife - PE
+<div>
+  <h1>Ferramentas/Frameworks ⚒️</h1>
 
----
+  <table>
+    <tr>
+      <td><img alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"></td>
+      <td><img alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></td>
+      <td><img alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></td>
+      <td><img alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></td>
+    </tr>
+  </table>
+</div>
 
-## 🛠️ Tecnologias & Ferramentas
+<div>
+  <h1>Data Bases💾</h1>
+      <table>
+            <tr>
+              <td><img alt="Postgree" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"></td>
+            </tr>
+      </table>
+</div>
+  
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikarocastro/ikarocastro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikarocastro/ikarocastro/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ikarocastro/ikarocastro/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+<h1>📈Estatísticas</h1>
 
----
-
-## 📫 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/alexandre-alves-7b2047279/?skipRedirect=true" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/_jrzin99/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Bom código é aquele que qualquer pessoa consegue entender."</i>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Felix-Unit&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
