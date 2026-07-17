@@ -2,8 +2,7 @@
 
 ![Banner](./ikaro-banner_1.pn)
 <li>💻Front End Developer</li>
-<li>⌨️Dev pleno Java/C++ Dominantes</li>
-<li>⚒️Cursando Engenharia de Software</li>
+<li>⚒️Cursando Front End Developer</li>
 <li>📩 Aberto a oportunidades de Estagio e Emprego</li>
 <br>
 <p>Desenvolvedor Front End com experiência em HTML, CSS , JAVASCRIPT, REACT .</p>
