@@ -48,8 +48,3 @@
 </picture>
 </div>
 
-<h1>📈Estatísticas</h1>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Felix-Unit&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
